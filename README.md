@@ -1,4 +1,4 @@
 # test-devops-ubuntu-ec2
 ***************************
-new changes to puch V1
+new changes to push V1
 **************************
